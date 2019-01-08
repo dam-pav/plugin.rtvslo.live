@@ -18,6 +18,6 @@
 		<forum></forum>
         <website>https://github.com/dam-pav/plugin.video.rtvslo-live</website>
 		<email></email>
-		<source></source>
+        <source>https://github.com/dam-pav/plugin.video.rtvslo-live</source>
 	</extension>
 </addon>
