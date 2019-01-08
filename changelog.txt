@@ -1,0 +1,3 @@
+v1.0.0 (2019-01-07) (fork by damjanp)
+ - split from plugin-video.rtvslo-3.0.0.
+ - live streams only, both audio and video

@@ -1,0 +1,23 @@
+<?xml version="2.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.rtvslo-live" name="RTV Slovenija - v živo" version="1.0.0" provider-name="damjanp">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>audio video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Play live video and audio streams from 4d.rtvslo.si</summary>
+		<summary lang="sl">Predvaja žive video in avdio kanale 4d.rtvslo.si</summary>
+		<description lang="en">RTV Slovenia is a national radio and television public broadcast organization. With this plugin you can watch both video and audio live streams.</description>
+		<description lang="sl">RTV Slovenija je državna radiotelevizijska organizacija. S tem vtičnikom si lahko ogledate vse televizijske in radijske kanale v živo.</description>
+		<disclaimer lang="en"></disclaimer>
+		<language></language>
+		<platform>all</platform>
+		<license>WTFPL, Version 2, December 2004</license>
+		<forum></forum>
+		<website></website>
+		<email></email>
+		<source></source>
+	</extension>
+</addon>
