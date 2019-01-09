@@ -7,17 +7,21 @@
 		<provides>audio video</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Play live video and audio streams from 4d.rtvslo.si</summary>
-		<summary lang="sl">Predvaja žive video in avdio kanale 4d.rtvslo.si</summary>
-		<description lang="en">RTV Slovenia is a national radio and television public broadcast organization. With this plugin you can watch both video and audio live streams.</description>
-		<description lang="sl">RTV Slovenija je državna radiotelevizijska organizacija. S tem vtičnikom si lahko ogledate vse televizijske in radijske kanale v živo.</description>
+		<summary lang="en">Plays live video and audio streams from 4d.rtvslo.si</summary>
+		<summary lang="sl">Predvaja žive tv in radijske oddaje 4d.rtvslo.si</summary>
+		<description lang="en">RTV Slovenija is a national radio and television public broadcast organization. With this plugin you can watch both video and audio live broadcast.</description>
+		<description lang="sl">RTV Slovenija je državna radiotelevizijska organizacija. S tem vtičnikom si lahko ogledate vse televizijske in radijske oddaje v živo.</description>
 		<disclaimer lang="en"></disclaimer>
-		<language></language>
+		<language>sl</language>
 		<platform>all</platform>
 		<license>WTFPL, Version 2, December 2004</license>
 		<forum></forum>
         <website>https://github.com/dam-pav/plugin.rtvslo.live</website>
 		<email></email>
         <source>https://github.com/dam-pav/plugin.rtvslo.live</source>
+		<news lang="en">v1.0.0 (2019-01-09)
+ - plays live streams only, for podcasts see plugin.rtvslo.podcast</news>
+		<news lang="sl">v1.0.0 (2019-01-09)
+ - predvaja izključno žive oddaje, za arhivske posnetke plugin.rtvslo.podcast</news>
 	</extension>
 </addon>
