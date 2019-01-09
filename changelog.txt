@@ -1,3 +1,3 @@
 v1.0.0
- - vaguely based on plugin-video.rtvslo by ro-le and markop159.
- - live streams only, both audio and video
+ - plays live streams only, for podcasts see plugin.rtvslo.podcast
+ - plays both audio and video (radio and tv)
