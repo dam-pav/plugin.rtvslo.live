@@ -1,5 +1,5 @@
 <?xml version="2.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.rtvslo-live" name="RTV Slovenija - v živo" version="1.0.0" provider-name="dam-pav">
+<addon id="plugin.rtvslo.live" name="RTV Slovenija - v živo" version="1.0.0" provider-name="dam-pav">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 	</requires>
@@ -16,8 +16,8 @@
 		<platform>all</platform>
 		<license>WTFPL, Version 2, December 2004</license>
 		<forum></forum>
-        <website>https://github.com/dam-pav/plugin.video.rtvslo-live</website>
+        <website>https://github.com/dam-pav/plugin.rtvslo.live</website>
 		<email></email>
-        <source>https://github.com/dam-pav/plugin.video.rtvslo-live</source>
+        <source>https://github.com/dam-pav/plugin.rtvslo.live</source>
 	</extension>
 </addon>
