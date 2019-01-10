@@ -9,7 +9,7 @@
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Plays live video and audio streams from 4d.rtvslo.si</summary>
 		<summary lang="sl">Predvaja žive tv in radijske oddaje 4d.rtvslo.si</summary>
-		<description lang="en">RTV Slovenija is a national radio and television public broadcast organization. With this plugin you can watch both video and audio live broadcast.</description>
+		<description lang="en">RTV Slovenija is a national radio and television public broadcast organization. With this plugin you can watch both video and audio live broadcasts.</description>
 		<description lang="sl">RTV Slovenija je državna radiotelevizijska organizacija. S tem vtičnikom si lahko ogledate vse televizijske in radijske oddaje v živo.</description>
 		<disclaimer lang="en"></disclaimer>
 		<language>sl</language>
