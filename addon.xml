@@ -1,4 +1,4 @@
-<?xml version="2.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.rtvslo.live" name="RTV Slovenija - v živo" version="1.0.0" provider-name="dam-pav">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
