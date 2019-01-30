@@ -11,13 +11,12 @@
 		<summary lang="sl">Predvaja žive tv in radijske oddaje 4d.rtvslo.si</summary>
 		<description lang="en">RTV Slovenija is a national radio and television public broadcast organization. With this plugin you can watch both video and audio live broadcasts.</description>
 		<description lang="sl">RTV Slovenija je državna radiotelevizijska organizacija. S tem vtičnikom si lahko ogledate vse televizijske in radijske oddaje v živo.</description>
-		<disclaimer lang="en"></disclaimer>
+		<disclaimer lang="en">The software is provided as-is and comes with no warranty whatsoever.[CR][CR]The author of the software does not provide the media[CR]content nor does he gain from its consumption.[CR][CR]All responsibility for use and comsumption lies with the consumer.[CR]</disclaimer>
+		<disclaimer lang="sl">Programska oprema je kakršna je, brez kakršnekoli garancije.[CR][CR]Avtor programske opreme ne zagotavlja medijske vsebine,[CR]niti nima nikakršne koristi povezane z njenim predvajanjem.[CR][CR]Vse odgovornosti za uporabo prevzema končni uporabnik medijskih vsebin.[CR]</disclaimer>
 		<language>sl</language>
 		<platform>all</platform>
 		<license>WTFPL, Version 2, December 2004</license>
-		<forum></forum>
-        <website>https://github.com/dam-pav/plugin.rtvslo.live</website>
-		<email></email>
+        <website>http://dam-pav.eu5.org</website>
         <source>https://github.com/dam-pav/plugin.rtvslo.live</source>
 		<news lang="en">v1.0.0 (2019-01-09)
  - plays live streams only, for podcasts see plugin.rtvslo.podcast</news>
