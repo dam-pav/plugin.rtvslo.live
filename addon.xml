@@ -19,8 +19,8 @@
         <website>http://dam-pav.eu5.org</website>
         <source>https://github.com/dam-pav/plugin.rtvslo.live</source>
 		<news lang="en">v1.0.0 (2019-01-09)
- - plays live streams only, for podcasts see plugin.rtvslo.podcast</news>
+- plays live streams only, for podcasts see plugin.rtvslo.podcast</news>
 		<news lang="sl">v1.0.0 (2019-01-09)
- - predvaja izključno žive oddaje, za arhivske posnetke glej plugin.rtvslo.podcast</news>
+- predvaja izključno žive oddaje, za arhivske posnetke glej plugin.rtvslo.podcast</news>
 	</extension>
 </addon>
